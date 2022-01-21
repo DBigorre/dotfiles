@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bigorredesiree@gmail.com
+	name = desiree bigorre
